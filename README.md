@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fr1k1
 - 👀 I’m interested in making video games and UI design
-- 🌱 I’m currently learning C++, SQL, C#, Python
+- 🌱 I’m currently learning C++, SQL, C#, Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on my mail
 
