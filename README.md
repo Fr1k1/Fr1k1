@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fr1k1
 - 👀 I’m interested in Web development and UI design
-- 🌱 I’m currently learning C++, SQL, C#, Python and JavaScript
+- 🌱 I’m currently learning C++, SQL, C#, Python and JavaScript (React & Angular)
 -     I'm interested in React, I am an IT student from Croatia and i want to learn more about programming
 
 
