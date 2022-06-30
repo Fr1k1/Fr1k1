@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning C++, SQL, C#, Python and JavaScript
 -     I'm interested in React, I am an IT student from Croatia and i want to learn more about programming
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martin friščić" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin friščić" height="30" width="40" /></a>
 <a href="https://fb.com/martin friščić" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin friščić" height="30" width="40" /></a>
