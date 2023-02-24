@@ -16,6 +16,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="80" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="40"/>
+  <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="40" height="40"/>
+  
   
   
   <h3>Osim ovog profila, imam i profil za potrebe fakulteta na kojem sam aktivan kroz akademsku godinu<h3/>
