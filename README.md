@@ -29,7 +29,11 @@
 
 ![Something about me](https://github-readme-stats.vercel.app/api?username=Fr1k1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![snake gif](https://github.com/Fr1k1/Fr1k1/blob/output/github-contribution-grid-snake.gif)
+
+
+![snake gif](https://github.com/Fr1k1/Fr1k1/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!---
 Fr1k1/Fr1k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
