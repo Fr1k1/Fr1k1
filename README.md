@@ -17,7 +17,9 @@
   
   
   
-  <h3>Osim ovog profila, imam i profil za potrebe fakulteta na kojem sam aktivan kroz akademsku godinu<h3/>
+ <!-- <h3>Osim ovog profila, imam i profil za potrebe fakulteta na kojem sam aktivan kroz akademsku godinu<h3/>-->
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
     
   
 
