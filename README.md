@@ -14,6 +14,7 @@
 <p align="left"> <a href="https://js.devexpress.com/"> <img src="https://www.devexpress.com/Content/Core/facebook-share-icon.png" width="40" height="40"/><a href="https://sass-lang.com/"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="40" height="40"/> <a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" width="40" height="40"/></a> <a href="https://sqlite.org/index.html">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="80" height="40"/></a>
   <a href="https://www.typescriptlang.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="40"/> </a> <a href="https://jquery.com/"><img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="40" height="40"/> </a>
+  <a href="https://flutter.dev/"> <img src="https://miro.medium.com/v2/resize:fit:320/0*ObJbOfJnx4QIPUq9.png" width="40" height="40"/> </a> 
   
   
   
