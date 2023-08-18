@@ -1,6 +1,6 @@
 <h1> Hi! I'm Martin! :grin: </h1>
 
-<h3>Software development student :computer: :octocat: <h3/>
+<h3>Fullstack developer, software engineering student :computer: :octocat: <h3/>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
