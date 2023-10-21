@@ -2,7 +2,8 @@
 
 <h3>Fullstack developer, software engineering student :computer: :octocat: <h3/>
 
-+ Currently working as a React developer at <a href="https://www.deck99.com/">Deck99<a/> 
++ Currently working as a React developer at <a href="https://www.deck99.com/">Deck99<a/>
++ Check my portfolio at <a href="https://martin-friscic-dev.netlify.app/">Martin Friscic portfolio<a/> 
 
 <h3 align="left">Contact:</h3>
 <p align="left">
