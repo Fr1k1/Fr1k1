@@ -7,16 +7,14 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martin-friščić-6164ab202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin friščić" height="30" width="40" /></a>
-<a href="https://fb.com/martin.friscic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin friščić" height="30" width="40" /></a>
-<a href="https://instagram.com/martinfriscic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinfriscic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin-friščić-6164ab202" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=10")></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
 
-  <p align="center">
+  <p>
      <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jquery,angular,react,vue,nodejs,cs,mongodb,mysql,postgres,sqlite,laravel,figma,docker,kotlin,flutter,java&theme=dark&perline=10")>
+  <img src="https://skillicons.dev/icons?i=jquery,next,angular,react,vue,nodejs,cs,mongodb,mysql,postgres,sqlite,laravel,figma,docker,kotlin,flutter,java&theme=dark&perline=9")>
         </a>
     </p>
 <!--<h3>My college account:https://github.com/mfriscic20<h3/>-->
