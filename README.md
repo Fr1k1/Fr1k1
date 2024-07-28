@@ -14,7 +14,7 @@
 
   <p>
      <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jquery,next,angular,react,vue,nodejs,cs,mongodb,mysql,postgres,sqlite,laravel,figma,docker,kotlin,flutter,java&theme=dark&perline=9")>
+  <img src="https://skillicons.dev/icons?i=next,react,angular,vue,express,cs,laravel,java,docker,figma,kotlin,flutter,jquery&theme=dark&perline=9")>
         </a>
     </p>
 <!--<h3>My college account:https://github.com/mfriscic20<h3/>-->
