@@ -2,7 +2,7 @@
 
 <h3>Fullstack developer, software engineering student :computer: :octocat: <h3/>
 
-+ Currently working as a Back End Java developer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
++ Currently working as a Backend Java developer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
 + Check my portfolio at <a href="https://martin-friscic-dev.netlify.app/">Martin Friscic portfolio<a/> 
 
 <h3 align="left">Contact:</h3>
