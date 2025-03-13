@@ -1,6 +1,6 @@
 <h1> Hi! I'm Martin! :grin: </h1>
 
-<h3>Fullstack developer, software engineering student :computer: :octocat: <h3/>
+<h3>Fullstack developer :computer: :octocat: <h3/>
 
 + Currently working as a Backend Java developer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
 + Check my portfolio at <a href="https://martin-friscic-dev.netlify.app/">Martin Friscic portfolio<a/> 
@@ -17,8 +17,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,docker,kubernetes,azure,quarkus,spring,next,react,angular,vue,express,cs,laravel,figma,kotlin&theme=dark")>
         </a>
     </p>
-<!--<h3>My college account:https://github.com/mfriscic20<h3/>-->
- 
  ![](https://komarev.com/ghpvc/?username=Fr1k1)
     
 ![Something about me](https://github-readme-stats.vercel.app/api?username=Fr1k1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
