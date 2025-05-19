@@ -2,7 +2,7 @@
 
 <h3>Fullstack developer :computer: :octocat: <h3/>
 
-+ Currently working as a Backend Java developer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
++ Currently working as a Fullstack developer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
 + Check my portfolio at <a href="https://martin-friscic-dev.netlify.app/">Martin Friscic portfolio<a/> 
 
 <h3 align="left">Contact:</h3>
@@ -17,7 +17,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,docker,kubernetes,azure,quarkus,spring,next,react,angular,vue,express,cs,laravel,figma,kotlin&theme=dark")>
         </a>
     </p>
- ![](https://komarev.com/ghpvc/?username=Fr1k1)
+<!--![](https://komarev.com/ghpvc/?username=Fr1k1)-->
     
 ![Something about me](https://github-readme-stats.vercel.app/api?username=Fr1k1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
