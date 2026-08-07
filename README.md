@@ -17,9 +17,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,docker,kubernetes,azure,quarkus,spring,next,react,angular,vue,express,cs,flutter&theme=dark")>
         </a>
     </p>
-<!--![](https://komarev.com/ghpvc/?username=Fr1k1)-->
-    
-![Something about me](https://github-readme-stats.vercel.app/api?username=Fr1k1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![Snake animation](https://raw.githubusercontent.com/Fr1k1/Fr1k1/output/github-contribution-grid-snake-dark.svg)
 
