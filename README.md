@@ -1,6 +1,6 @@
 <h1> Hi! I'm Martin! :grin: </h1>
 
-<h3>Fullstack developer :computer: :octocat: <h3/>
+<h3>Software and Platform Engineer :computer: :octocat: <h3/>
 
 + Currently working as a Software Engineer at <a href="https://emilfreydigital.com/">Emil Frey Digital<a/>
 + Check my portfolio at <a href="https://martin-friscic-dev.netlify.app/">Martin Friscic portfolio<a/> 
