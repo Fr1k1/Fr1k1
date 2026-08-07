@@ -14,7 +14,7 @@
 
   <p>
      <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,docker,kubernetes,azure,quarkus,spring,next,react,angular,vue,express,cs,flutter&theme=dark")>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,quarkus,spring,docker,kubernetes,azure,terraform,ansible,next,react,angular,express&theme=dark")>
         </a>
     </p>
 
